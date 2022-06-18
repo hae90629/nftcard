@@ -1,0 +1,78 @@
+body {
+  color: hsl(215, 51%, 70%);
+  background-color: hsl(217, 54%, 11%);
+  font-size: 18px;
+  font-family: 'Outfit', sans-serif;
+}
+.card{
+  background-color: hsl(216, 50%, 16%);
+  width: 300px;
+  height: 530px;
+  margin: 150px auto;
+  border-radius: 20px;
+  padding: 25px;
+}
+.equilibrium{
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  margin: auto;
+}
+h3 {
+  color: white;
+}
+p {
+  font-weight: 300;
+}
+.ethereum {
+  color: hsl(178, 100%, 50%);
+  float: left;
+  margin: 0;
+  margin-left: 8px;
+  font-weight: 400;
+  font-size: 15px;
+}
+.clock{
+  position: relative;
+  left: 95px;
+}
+.time{
+  float: right;
+  margin: 0;
+  margin-right: 10px;
+  font-size: 15px;
+}
+hr{
+  margin: 20px 0 20px 0;
+  border-width: 0 0 0.1em 0;
+  border-bottom-color: hsl(215, 32%, 27%);
+}
+.avatar{
+  border-color: hsl(0, 0%, 100%);
+  border: 1px solid;
+  border-radius: 15px;
+  height: 30px;
+  float: left;
+  margin-right: 10px;
+}
+.credit{
+  font-size: 15px;
+  margin-top: 27px;
+}
+.creator{
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
